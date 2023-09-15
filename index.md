@@ -1,3 +1,5 @@
 # My homepage
 
-Hihi
+Hihi **bold**
+
+Changes to netlify
