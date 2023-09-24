@@ -1,6 +1,6 @@
 ---
 title: Hi this is my first post
-layout: post.njk
+layout: layouts/post.njk
 description: The first post yeeehehahahawwww
 date: 2023-09-23
 featured_image: /images/uploads/space.jpg
